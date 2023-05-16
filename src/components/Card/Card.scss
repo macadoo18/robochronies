@@ -1,0 +1,16 @@
+.card {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background: lightgreen;
+
+    img, h2 {
+        align-self: center;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+}

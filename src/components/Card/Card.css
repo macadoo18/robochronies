@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background: lightgreen;
+}
+.card img, .card h2 {
+  align-self: center;
+}
+.card p {
+  margin-bottom: 0;
+}/*# sourceMappingURL=Card.css.map */
